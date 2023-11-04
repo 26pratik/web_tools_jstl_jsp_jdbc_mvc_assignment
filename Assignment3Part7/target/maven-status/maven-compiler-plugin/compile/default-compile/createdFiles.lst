@@ -1,0 +1,5 @@
+com\neu\assignment3part7\dao\BooksJDBCDao.class
+com\neu\assignment3part7\dao\DatabaseConnection.class
+com\neu\assignment3part7\Controller\AddNewBooks.class
+com\neu\assignment3part7\Controller\TableSizeController.class
+com\neu\assignment3part7\Model\Books.class
